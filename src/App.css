@@ -10,6 +10,7 @@
 
 h1{
   font-size: 30px;
+  font-family: 'Poppines', sans-serif;
 }
 
 .section1 {
@@ -69,6 +70,7 @@ video {
   
   h1{
     font-size: 20px;
+    font-family: 'Poppines', sans-serif;
   }
   
   .section1 {
