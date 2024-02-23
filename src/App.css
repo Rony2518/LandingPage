@@ -100,4 +100,11 @@ video {
     background-color: rgb(124, 231, 255);
     box-shadow: inset 0px 0px 10px 10px rgb(0, 208, 255);
   }
+
+  .btn:focus{
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+  background: linear-gradient(145deg, rgb(124, 231, 255, 0.5) 50%, rgb(0, 208, 255, 0.5)50%);
+  box-shadow: inset 6px 6px 12px rgb(0, 208, 255), inset -6px -6px 12px rgb(0, 208, 255);
+}
 }
