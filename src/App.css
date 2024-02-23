@@ -63,7 +63,7 @@ video {
 
 @media (max-width:400px) {
   .logo {
-    width: 100px;
+    width: 180px;
     filter: drop-shadow(0 0 3rem rgb(0, 0, 0, 0.5));
   }
   
